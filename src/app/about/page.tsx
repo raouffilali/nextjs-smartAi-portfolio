@@ -17,10 +17,12 @@ export default function Page() {
       <section className="space-y-3">
         <H2>Who am I?</H2>
         <p>
-          My name is Abderraouf FILALI and I am a Master&apos;s degree software
-          engineer and full-stack developer from Algeria. I started programming
-          in 2019, at the age of 20, and since then I have spent most of my time
-          creating projects and learning new things about technology 😄
+          My name is <strong>Abderraouf FILALI</strong> and I am a{" "}
+          <strong>Master&apos;s degree software engineer</strong> and{" "}
+          <strong>full-stack developer</strong> from Algeria. I{" "}
+          <strong>started</strong> programming in 2019, at the{" "}
+          <strong>age of 20</strong>, and since then I have spent most of my
+          time creating projects and learning new things about technology 😄
         </p>
         <p>
           I&apos;m passionate about building cool apps and websites and I love
@@ -38,19 +40,19 @@ export default function Page() {
           <strong>Django</strong>.
         </p>
         <p>
-          I also have some experience with Android development using Flutter,
-          but have stopped working with it a few years ago. I prefer web
-          development because you can use a modern website on almost every
-          device and reach the whole world with it.
+          I also have some experience with <strong>Android development</strong>{" "}
+          using <strong>Flutter</strong>, but have stopped working with it a few
+          years ago. I prefer web development because you can use a modern
+          website on almost every device and reach the whole world with it.
         </p>
         <p>
-          I bring a versatile background to the table, having excelled in UI/UX
-          design and web design before transitioning to full-stack development.
-          My experience in crafting compelling user interfaces and seamless
-          experiences has equipped me with a unique perspective. This journey
-          has allowed me to seamlessly integrate design thinking into my
-          development work, resulting in a holistic and effective approach to
-          creating digital solutions.
+          I bring a versatile background to the table, having excelled in{" "}
+          <strong>UI/UX</strong> design and <strong>web design</strong> before
+          transitioning to full-stack development. My experience in crafting
+          compelling user interfaces and seamless experiences has equipped me
+          with a unique perspective. This journey has allowed me to seamlessly
+          integrate design thinking into my development work, resulting in a
+          holistic and effective approach to creating digital solutions.
         </p>
       </section>
       <hr className="border-muted" />
