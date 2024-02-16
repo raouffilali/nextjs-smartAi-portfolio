@@ -17,12 +17,17 @@ export default function Page() {
       <section className="space-y-3">
         <H2>Who am I?</H2>
         <p>
-          My name is <strong>Abderraouf FILALI</strong> and I am a{" "}
-          <strong>Master&apos;s degree software engineer</strong> and{" "}
-          <strong>full-stack developer</strong> from Algeria. I{" "}
-          <strong>started</strong> programming in 2019, at the{" "}
-          <strong>age of 20</strong>, and since then I have spent most of my
-          time creating projects and learning new things about technology 😄
+          My name is <strong className="text-primary">Abderraouf FILALI</strong>{" "}
+          and I am a{" "}
+          <strong className="text-primary">
+            Master&apos;s degree software engineer
+          </strong>{" "}
+          and <strong className="text-primary">full-stack developer</strong>{" "}
+          from Algeria. I <strong className="text-primary">started</strong>{" "}
+          programming <strong className="text-primary">in 2019</strong>, at the{" "}
+          <strong className="text-primary">age of 20</strong>, and since then I
+          have spent most of my time creating projects and learning new things
+          about technology 😄
         </p>
         <p>
           I&apos;m passionate about building cool apps and websites and I love
@@ -34,20 +39,26 @@ export default function Page() {
         <H2>Skills</H2>
         <p>
           I&apos;m a full-stack web developer specializing in{" "}
-          <strong>React</strong>, <strong>Next.js</strong>,{" "}
-          <strong>Angular</strong>,<strong>Nest.js</strong>,
-          <strong>Node.js</strong>, <strong>Flask</strong>, and{" "}
-          <strong>Django</strong>.
+          <strong className="text-primary">React</strong>,{" "}
+          <strong className="text-primary">Next.js</strong>,{" "}
+          <strong className="text-primary">Angular</strong>,
+          <strong className="text-primary">Nest.js</strong>,
+          <strong className="text-primary">Node.js</strong>,{" "}
+          <strong className="text-primary">Flask</strong>, and{" "}
+          <strong className="text-primary">Django</strong>.
         </p>
         <p>
-          I also have some experience with <strong>Android development</strong>{" "}
-          using <strong>Flutter</strong>, but have stopped working with it a few
-          years ago. I prefer web development because you can use a modern
-          website on almost every device and reach the whole world with it.
+          I also have some experience with{" "}
+          <strong className="text-primary">Android development</strong> using{" "}
+          <strong className="text-primary">Flutter</strong>, but have stopped
+          working with it a few years ago. I prefer web development because you
+          can use a modern website on almost every device and reach the whole
+          world with it.
         </p>
         <p>
           I bring a versatile background to the table, having excelled in{" "}
-          <strong>UI/UX</strong> design and <strong>web design</strong> before
+          <strong className="text-primary">UI/UX</strong> design and{" "}
+          <strong className="text-primary">web design</strong> before
           transitioning to full-stack development. My experience in crafting
           compelling user interfaces and seamless experiences has equipped me
           with a unique perspective. This journey has allowed me to seamlessly

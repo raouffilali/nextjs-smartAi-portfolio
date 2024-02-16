@@ -29,7 +29,7 @@ export default function Home() {
             alt="A picture of me 😎"
             height={300}
             width={300}
-            className="aspect-square rounded-full border-2 object-cover shadow-md dark:border-foreground"
+            className="aspect-auto rounded-full border-2 object-cover shadow-md dark:border-foreground"
           />
         </div>
       </section>
