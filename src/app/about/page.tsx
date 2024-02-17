@@ -146,8 +146,10 @@ export default function Page() {
         </p>
         <Image
           // use network image as a src
-          src="../../assets/bjj.JPG"
+          src="https://i.imgur.com/s4cBZHf.jpeg"
           alt="Brazilian Jiu-Jitsu group photo"
+          height={300}
+          width={300}
           className="rounded-md"
         />
       </section>
