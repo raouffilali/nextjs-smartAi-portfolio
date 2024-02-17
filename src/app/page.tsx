@@ -25,7 +25,7 @@ export default function Home() {
 
         <div className="flex justify-center">
           <Image
-            src="https://i.imgur.com/s4cBZHf.jpeg"
+            src="../assets/me.JPG"
             alt="A picture of me 😎"
             height={300}
             width={300}

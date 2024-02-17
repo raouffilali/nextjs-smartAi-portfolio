@@ -145,7 +145,8 @@ export default function Page() {
           psychology.
         </p>
         <Image
-          src="https://i.imgur.com/s4cBZHf.jpeg"
+          // use network image as a src
+          src="../../assets/bjj.JPG"
           alt="Brazilian Jiu-Jitsu group photo"
           className="rounded-md"
         />
